@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Dev/cpp/Projects/LearningOpenGL/build/LearningOpenGL",
-  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe    -o CMakeFiles\\LearningOpenGL.dir\\LearningOpenGL.cpp.obj -c C:\\Dev\\cpp\\Projects\\LearningOpenGL\\LearningOpenGL\\LearningOpenGL.cpp",
-  "file": "C:/Dev/cpp/Projects/LearningOpenGL/LearningOpenGL/LearningOpenGL.cpp"
-}
-]
