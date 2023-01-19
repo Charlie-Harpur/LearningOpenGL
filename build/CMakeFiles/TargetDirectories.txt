@@ -1,0 +1,9 @@
+C:/Dev/cpp/Projects/LearningOpenGL/build/CMakeFiles/edit_cache.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/CMakeFiles/rebuild_cache.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/include/CMakeFiles/edit_cache.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/include/CMakeFiles/rebuild_cache.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/src/CMakeFiles/edit_cache.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/src/CMakeFiles/rebuild_cache.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/LearningOpenGL/CMakeFiles/LearningOpenGL.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/LearningOpenGL/CMakeFiles/edit_cache.dir
+C:/Dev/cpp/Projects/LearningOpenGL/build/LearningOpenGL/CMakeFiles/rebuild_cache.dir
